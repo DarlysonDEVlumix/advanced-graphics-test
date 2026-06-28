@@ -12,7 +12,7 @@ config_version=5
 
 config/name="graficos teste"
 run/main_scene="uid://bksao0w6rahtw"
-config/features=PackedStringArray("4.6", "GL Compatibility")
+config/features=PackedStringArray("4.7", "GL Compatibility")
 config/icon="res://icon.svg"
 
 [display]

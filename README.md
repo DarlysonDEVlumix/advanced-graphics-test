@@ -12,7 +12,7 @@ explores advanced graphics techniques in Godot, including shaders, lighting, pos
 - Post-processing effects
 - Visual effects (VFX)
 - Materials and rendering
--
+
 ## Development Screenshots
  
 ![img](/assets/github%20imagers/Screenshot1.jpg)
@@ -46,10 +46,12 @@ On some machines, this game may not run satisfactorily.
 I recommend a mid-range computer for a more responsive and satisfactory performance.
 
 ## Minimum requiriments
-| Hardware | Minimum | Recommended |
-| ------| ---- | ------ |
-| RAM | 4GB | 6GB |
-| CPU | Intel Celeron 847 | Intel I3 2400 or higher |
-| Video card | Intel HD graphics | GTX 1050 TI or higher |
+| Hardware | Minimum |
+| ------| ---- |
+| RAM | 2GB | 
+| CPU | Intel Celeron 847 |
+| Video card | Intel HD graphics |
+| Disk | HDD |
+| O.S | Windows 10 or Linux (modern distribution) |or higher |
 | Disk | HDD | SSD |
 | O.S | Windows 10 or Linux (modern distribution) | Windows 11 or Linux (modern distribution) |

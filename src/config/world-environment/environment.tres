@@ -13,6 +13,7 @@ radiance_size = 4
 background_mode = 2
 sky = SubResource("Sky_eafnf")
 tonemap_mode = 3
+ssao_enabled = true
 sdfgi_enabled = true
 sdfgi_use_occlusion = true
 glow_enabled = true
