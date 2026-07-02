@@ -116,7 +116,7 @@ mesh = SubResource("BoxMesh_di4tq")
 shape = SubResource("ConcavePolygonShape3D_i5urr")
 
 [node name="Playar" parent="." unique_id=1583252551 instance=ExtResource("4_dbxsi")]
-transform = Transform3D(-0.9757031, 0, -0.21909703, 0, 1, 0, 0.21909703, 0, -0.9757031, -53.838062, 17.562778, 26.657827)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -53.838062, 17.562778, 26.657827)
 
 [node name="VoxelGI" type="VoxelGI" parent="." unique_id=518053384]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -33.771515, 16.53873, 13.484528)
